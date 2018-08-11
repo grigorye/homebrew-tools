@@ -1,0 +1,10 @@
+#! /bin/sh -xe
+
+wd=$(dirname "$0")
+
+casksDir=$"${wd:?}/../Casks"
+
+wget \
+    -v -N --unlink --trust-server-names \
+    -P "${casksDir:?}" \
+    'https://gitlab.com/grigorye/SimulatorRecorder/-/jobs/artifacts/master/raw/build/Formula/simulator-recorder.rb?job=build_project'
