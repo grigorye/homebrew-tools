@@ -8,3 +8,8 @@ wget \
     -v -N --unlink --trust-server-names \
     -P "${casksDir:?}" \
     'https://gitlab.com/grigorye/SimulatorRecorder/-/jobs/artifacts/master/raw/build/Formula/simulator-recorder.rb?job=build_project'
+
+wget \
+    -v -N --unlink --trust-server-names \
+    -P "${casksDir:?}" \
+    'https://gitlab.com/grigorye/URLHelperApp/-/jobs/artifacts/master/raw/build/Formula/url-helper-app.rb?job=build_project'
