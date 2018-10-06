@@ -2,7 +2,7 @@
 
 wd=$(dirname "$0")
 
-casksDir=$"${wd:?}/../Casks"
+casksDir="${wd:?}/../Casks"
 
 wget \
     -v -N --unlink --trust-server-names \
