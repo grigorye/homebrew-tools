@@ -1,8 +1,8 @@
 cask 'simulator-recorder' do
-  version '279'
-  sha256 '7a6f7739c612fd842d891c2539a92da54be93d72d46405200096b2518281eea8'
+  version '285'
+  sha256 'ca0c81f2c70a199f843809205bd6840d259e353d823a33e677b6de60b245bcf4'
 
-  url 'https://gitlab.com/grigorye/SimulatorRecorder/-/jobs/104503804/artifacts/raw/build/SimulatorRecorder.dmg'
+  url 'https://gitlab.com/grigorye/SimulatorRecorder/-/jobs/105421859/artifacts/raw/build/SimulatorRecorder.dmg'
   name 'Simulator Recorder'
   homepage 'https://gitlab.com/grigorye/SimulatorRecorder'
 
