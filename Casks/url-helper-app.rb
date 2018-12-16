@@ -1,8 +1,8 @@
 cask 'url-helper-app' do
-  version '53'
-  sha256 'e96c79ee665007103db34a4ccc3e107aff2e5152a58abe218f457dd029725c27'
+  version '54'
+  sha256 '95a33285b9e9f12ca0c87621b910119583b7001511fc7cdcffb308978d2b89a6'
 
-  url 'https://gitlab.com/grigorye/URLHelperApp/-/jobs/134938967/artifacts/raw/build/URLHelperApp.dmg'
+  url 'https://gitlab.com/grigorye/URLHelperApp/-/jobs/135104706/artifacts/raw/build/URLHelperApp.dmg'
   name 'URLHelperApp'
   homepage 'https://gitlab.com/grigorye/URLHelperApp'
 
