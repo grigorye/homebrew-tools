@@ -1,8 +1,8 @@
 cask 'time-machine-buddy' do
-  version '503'
-  sha256 '3952beb362cfd514159fe99efe61e689158e57eea3d8653e1d5c0076923c3019'
+  version '505'
+  sha256 'bb1e3d9e115dedd46d778cef5049a470021b44973545b015e79be972a9819184'
 
-  url 'https://tmbuddy.s3.amazonaws.com/TMBuddy-503.dmg'
+  url 'https://tmbuddy.s3.amazonaws.com/TMBuddy-505.dmg'
   name 'TMBuddy'
   homepage 'https://github.com/grigorye/TMBuddy'
 
