@@ -1,8 +1,8 @@
 cask 'timebox' do
-  version '0.1.9,655862.51.2'
-  sha256 'f7b430bef5278ada3b5eb3cb451e86a3250d626011817d639ab6a7453d1a1b01'
+  version '0.1.9,662002.51.4'
+  sha256 '88289efe4901a8923c0d44e07f44af0da457a49a1c02320750f1618f7cbf0aa6'
 
-  url 'https://timeboxapp.s3.amazonaws.com/macOS-app-0.1.9-655862.51.2.dmg'
+  url 'https://timeboxapp.s3.amazonaws.com/macOS-app-0.1.9-662002.51.4.dmg'
   name 'Timebox'
   homepage 'https://github.com/grigorye/Timebox'
 
